@@ -1,12 +1,6 @@
 # Magical Choco Bar  
 
-A fun and interactive chocolate-themed button with a 3D effect, smooth animations, and a bite effect on click.  
-
-## Preview  
-
-Check out how the **Magical Choco Bar** looks in action:  
-
-![Magical Choco Bar Preview](image.png)  
+Magical Choco Bar is a fun and interactive chocolate-themed button with a **realistic 3D effect**, **smooth animations**, and a **bite effect on click**. Designed to add a playful touch to any webpage, this button reacts dynamically to user interactions, making it visually engaging and satisfying to use.
 
 
 ## Features  
@@ -17,6 +11,12 @@ Check out how the **Magical Choco Bar** looks in action:
 - Perfectly responsive across devices  
 - Pure CSS magic (no JavaScript required)  
 - Lightweight (under 10KB total!)  
+
+## Preview  
+
+Check out how the **Magical Choco Bar** looks in action:  
+
+![Magical Choco Bar Preview](image.png)  
 
 
 ## How It Works  
